@@ -12,7 +12,9 @@
 * typescript
 * styled-components
 
+# 헤로쿠 배포 링크
 
+https://lotteryrandom-jyc.herokuapp.com/
    
 # 구현 모습
 
